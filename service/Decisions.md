@@ -16,3 +16,8 @@ Frontend
 
 1. React
 
+
+Paper Scraping
+==============
+1. If I am able to extract the DOI of reference, I can easily download the paper : [arXiv, abs]
+2. PROBLEM: Few references don't have DOI and also they have different names in arixv

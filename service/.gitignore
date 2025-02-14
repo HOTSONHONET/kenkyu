@@ -1,0 +1,11 @@
+__pycache__/
+
+
+# Ignoring Notebooks
+Notebooks
+
+# Ignoring downloads
+downloads
+
+# Ignoring junk_files
+junk_files
