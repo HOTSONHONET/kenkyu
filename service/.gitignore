@@ -9,3 +9,6 @@ downloads
 
 # Ignoring junk_files
 junk_files
+
+# Ignoring virtual environments
+.venv
